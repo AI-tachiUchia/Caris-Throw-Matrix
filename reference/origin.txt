@@ -1,0 +1,4 @@
+Source: user-provided Reverb_Delay_Throws_v6.fmx
+Version: 1.1.0
+Space version: 6
+The original proprietary WASM/HTML is NOT included in the native plugin prototype. This project recreates the functionality; audio is not bit-for-bit identical.
